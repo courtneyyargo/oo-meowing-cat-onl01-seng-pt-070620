@@ -1,1 +1,18 @@
-class = Cat.new 
+require_pry
+
+class = Cat
+
+
+binding.pry 
+
+
+
+
+
+
+
+
+
+
+
+end 
