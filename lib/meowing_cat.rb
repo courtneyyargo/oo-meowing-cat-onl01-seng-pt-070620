@@ -3,7 +3,7 @@ require_pry
 class = Cat
 
 
-binding.pry 
+  binding.pry 
 
 
 
