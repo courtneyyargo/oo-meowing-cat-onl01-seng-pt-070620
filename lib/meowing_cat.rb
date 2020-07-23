@@ -1,6 +1,6 @@
 require_pry
 
-class = Cat
+class Cat
   attr_accessor(cat)
 
 
